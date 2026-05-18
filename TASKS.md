@@ -13,7 +13,7 @@ Este archivo resume las tareas principales del proyecto, su objetivo y la person
 | ID | Tarea | Objetivo | Responsable | Apoyo | Estado |
 | --- | --- | --- | --- | --- | --- |
 | 1 | EDA y analisis estadistico | Entender la estructura de los datos, distribuciones, calidad, balance de clases y hallazgos iniciales. | Por definir | Por definir | Pendiente |
-| 2 | Modelamiento y comparacion de modelos | Entrenar, ajustar y comparar modelos base y candidatos finales con metricas consistentes. | Por definir | Por definir | Pendiente |
+| 2 | Modelamiento y comparacion de modelos | Entrenar, ajustar y comparar modelos base y candidatos finales con metricas consistentes. | Andres Molina | Por definir | Terminado |
 | 3 | Analisis de resultados | Interpretar metricas, generar graficas, revisar ejemplos correctos e incorrectos y explicar hallazgos. | Por definir | Por definir | Pendiente |
 | 4 | Poster | Sintetizar el proyecto en formato visual, con metodologia, resultados y conclusiones. | Por definir | Por definir | Pendiente |
 | 5 | Video | Preparar el guion, grabacion y edicion de la presentacion final del proyecto. | Por definir | Por definir | Pendiente |
@@ -47,7 +47,7 @@ Checklist:
 
 Objetivo: construir una linea base y comparar alternativas con un criterio comun.
 
-Responsable: `Por definir`
+Responsable: `Andres Molina`
 
 Apoyo: `Por definir`
 
@@ -60,11 +60,9 @@ Entregables sugeridos:
 
 Checklist:
 
-- [ ] Definir particion de entrenamiento, validacion y prueba
-- [ ] Implementar un modelo baseline
-- [ ] Entrenar modelos candidatos
-- [ ] Comparar metricas de forma consistente
-- [ ] Seleccionar el modelo final
+- [x] Implementar un modelo baseline
+- [x] Entrenar modelos candidatos
+- [x] Comparar metricas de forma consistente
 
 ### 3. Analisis de resultados con graficas y ejemplos
 
