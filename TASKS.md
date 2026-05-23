@@ -37,11 +37,11 @@ Entregables sugeridos:
 
 Checklist:
 
-- [ ] Cargar y validar los datos
-- [ ] Revisar cantidad de ejemplos por clase
-- [ ] Identificar problemas de calidad o inconsistencias
-- [ ] Generar visualizaciones exploratorias
-- [ ] Redactar hallazgos clave para el informe
+- [x] Cargar y validar los datos
+- [x] Revisar cantidad de ejemplos por clase
+- [x] Identificar problemas de calidad o inconsistencias
+- [x] Generar visualizaciones exploratorias
+- [x] Redactar hallazgos clave para el informe
 
 ### 2. Modelamiento y comparacion de modelos
 
@@ -81,11 +81,11 @@ Entregables sugeridos:
 
 Checklist:
 
-- [ ] Generar metricas finales del modelo
-- [ ] Crear graficas de apoyo
-- [ ] Mostrar ejemplos representativos
-- [ ] Explicar errores frecuentes y posibles mejoras
-- [ ] Consolidar conclusiones tecnicas
+- [x] Generar metricas finales del modelo
+- [x] Crear graficas de apoyo
+- [x] Mostrar ejemplos representativos
+- [x] Explicar errores frecuentes y posibles mejoras
+- [x] Consolidar conclusiones tecnicas
 
 ### 4. Poster
 
@@ -102,11 +102,11 @@ Entregables sugeridos:
 
 Checklist:
 
-- [ ] Definir estructura del poster
-- [ ] Seleccionar figuras y tablas clave
-- [ ] Redactar texto breve y claro
-- [ ] Revisar coherencia visual y tecnica
-- [ ] Aprobar version final
+- [x] Definir estructura del poster
+- [x] Seleccionar figuras y tablas clave
+- [x] Redactar texto breve y claro
+- [x] Revisar coherencia visual y tecnica
+- [x] Aprobar version final
 
 ### 5. Video
 
